@@ -1,0 +1,19 @@
+# Node
+node_modules/
+npm-debug.log*
+dist/
+
+# Laravel
+/vendor/
+.env
+.phpunit.result.cache
+/storage/*.key
+/storage/framework/
+/bootstrap/cache/
+
+# Vite
+.vite/
+
+# OS
+.DS_Store
+Thumbs.db
